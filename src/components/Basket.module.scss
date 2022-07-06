@@ -1,0 +1,32 @@
+.zakaz {
+    display: grid;
+    justify-content: center;
+    padding: 200px;
+}
+
+.a {
+    a {
+        text-decoration: none;
+    }
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 2rem;
+
+    button {
+        width: 245px;
+        height: 55px;
+        border-radius: 20px;
+        border: none;
+        background-color: #9DD458;
+        color: #fff;
+        font-size: 16px;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        gap: 8px;
+    }
+}

@@ -1,0 +1,40 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.stoim {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+    p {
+        color: rgba(0, 0, 0, 0.548);
+    }
+
+    span {
+        color: rgba(0, 0, 0, 0.644);
+    }
+}
+
+.icon {
+    display: flex;
+    gap: 30px;
+    padding-left: 30px;
+
+
+}
+
+.hr {
+    position: absolute;
+    width: 1701px;
+    height: 0px;
+    left: 100px;
+    top: 251px;
+
+    border: 1px solid #00000080;
+
+}
